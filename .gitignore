@@ -4,3 +4,5 @@ report.html
 .pytest_cache/
 .coverage
 htmlcov/
+faced_issues.txt
+screenshots/
